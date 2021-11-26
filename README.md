@@ -1,3 +1,4 @@
+```
 - 👋 Hi, I’m @imtinalin915
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -9,6 +10,7 @@ imtinalin915/imtinalin915 is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 - - - 👋👋👋
+```
 
 ```
 after booting, console login, create /etc/Device_Info.txt, then reboot again.
